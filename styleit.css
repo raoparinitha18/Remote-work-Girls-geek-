@@ -1,0 +1,46 @@
+body {
+    font-family: 'Times New Roman';
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-image:url('ha.jpg');
+    background-size: contain;
+    background-color:rgba(110, 226, 86, 0.895);
+    color: black;
+    padding: 10px;
+    text-align: center;
+}
+
+nav {
+    margin-top: 10px;
+
+}
+
+nav a {
+    color:#FFFDD0;
+    text-decoration: none;
+    margin: 0 15px;
+   
+    
+}
+
+#hero {
+    color:rgba(0, 0, 0, 0.934);
+    text-align: center;
+    padding: 50px;
+}
+
+#hero h2 {
+    font-size: 2em;
+}
+#aboutus {
+    text-align: center;
+
+}
+#contact{
+    text-align: end;
+
+}
+/* Add more styles for other sections as needed */
